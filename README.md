@@ -11,12 +11,17 @@
   - [Contribute](#contribute)
   - [Test](#test)
 
-  ## Description
-  An app that helps user to create a readme file through using the terminal.
+
+  ## Visuals
+  <img src="assets/images/readme-1.png">
+  <img src="assets/images/readme-2.png">
+
+  # Description
+  An app that helps user to create a readme file through using the terminal. readme file will be created accordingly after the user interaction through terminal.
 
 
   ## Usage
-  Can be used to create a readme file.
+  Can be used to create a readme file. User will be asked required informations inside terminal!
 
   ## Installation
   N/A
@@ -36,8 +41,8 @@
 
    
   ## Questions
-  Github username: https://github.com/tarikorg
-  Email: myku1771@gmail.com
+  - Github username: https://github.com/tarikorg
+  - Email: myku1771@gmail.com
 
 
   ## License
