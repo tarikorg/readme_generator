@@ -43,6 +43,10 @@ const questions = [
 {
     name: 'email',
     message: 'Write your email pls:) :'
+},
+{
+    name: 'test',
+    message: 'Please type your readme-test'
 }
 
 ];
@@ -62,7 +66,7 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {
-    
+
     inquirer.prompt(questions)
     .then((answersObj) => {
       const markdown = generateMarkdown(answersObj)
