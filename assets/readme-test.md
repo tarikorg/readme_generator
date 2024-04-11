@@ -9,19 +9,16 @@
   - [License](#license)
   - [Credits](#credits)
   - [Contribute](#contribute)
-  
+  - [Test](#test)
 
 
-  ## Visuals
-  <img src="assets/images/readme-1.png">
-  <img src="assets/images/readme-2.png">
 
   # Description
-  An app that helps user to create a readme file through using the terminal. readme file will be created accordingly after the user interaction through terminal.
+  helps user to create a professional readme file
 
 
   ## Usage
-  Can be used to create a readme file. User will be asked required informations inside terminal!
+  use the terminal to input required information for readme file
 
   ## Installation
   N/A
@@ -36,8 +33,8 @@
   - Push the branch
   - Do a Pull Request
 
-  ## Deployment
-  - Link to my repo: https://github.com/tarikorg/readme_generator
+  ## Test
+  I HAVE TESTED IT, IT WORKS YAHOOOOOOOOOOOOOOOOOOOO!
 
    
   ## Questions
